@@ -1,0 +1,22 @@
+/*styles.css */
+
+.Odds {
+color: #000000;
+background-color: #f88b8b;
+font-family: Verdana, sans-serif;
+}
+
+.Cooler {
+    font-size: 24px;
+}
+
+#Second {
+    color: #3441f3;
+    font-size: 36px;
+}
+
+#Fourth {
+background-color: #4ee656;
+font-size: 24px;
+font-weight: bold;
+}
